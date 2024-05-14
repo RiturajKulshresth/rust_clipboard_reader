@@ -1,0 +1,1 @@
+[{"id":5,"item":"We first read the existing JSON data from the file."},{"id":6,"item":"Then we parse it into a serde_json::Value."},{"id":7,"item":"Next, we create a JSON object for the new clipboard item."},{"id":8,"item":"We append this new item to the JSON array.\n"}]
